@@ -1,0 +1,13 @@
+{
+  "name": "toonscrapper",
+  "version": "0.0.1",
+  "description": "scrapping service",
+  "main": "index.js",
+  "repository": "https://github.com/imdbsd/collecttoon.git",
+  "author": "imdbsd",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  }
+}
