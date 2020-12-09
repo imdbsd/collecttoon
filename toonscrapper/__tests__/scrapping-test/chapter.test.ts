@@ -5,7 +5,7 @@ import axios from 'axios'
 
 jest.mock('axios')
 
-const TEST_CHAPTER_URL = 'https://www.webtoon.xyz/read/secret-class/chapte/'
+const TEST_CHAPTER_URL = 'https://www.webtoon.xyz/read/secret-class/chapter-1/'
 const mockedAxios = axios as jest.Mocked<typeof axios>
 
 mockedAxios.get.mockResolvedValue({
