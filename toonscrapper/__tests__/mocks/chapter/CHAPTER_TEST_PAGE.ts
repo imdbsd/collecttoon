@@ -1,3 +1,4 @@
+// @ts-nocheck
 export const CHAPTER_TEST_PAGE = `
 <!DOCTYPE html>
 <html lang="en-US">
